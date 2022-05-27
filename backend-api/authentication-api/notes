@@ -1,0 +1,5 @@
+for TSlL implementaion , https
+
+add in package.json file
+
+set HTTPS=true &&SSL_CRT_FILE=./key/cert.pem&&SSL_KEY_FILE=./key/key.pem&&node ./server.js
