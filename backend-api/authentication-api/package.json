@@ -20,7 +20,7 @@
         "helmet": "^5.0.2",
         "joi": "^17.2.0",
         "jsonwebtoken": "^8.5.1",
-        "mysql2": "^2.1.0",
+        "mysql2": "^2.3.3",
         "rootpath": "^0.1.2",
         "sequelize": "^6.3.4"
     },
